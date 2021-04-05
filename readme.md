@@ -37,7 +37,7 @@
 ## ¿Que es Git?
 es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos. [WIKIPEDIA](https://es.wikipedia.org/wiki/Git).<br>
 
-## Tabla de contenidos
+## #Tabla de contenidos
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
@@ -48,6 +48,8 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 ---
 
 ## Instalación
+
+![git](./images/git.png)
 
 📦 [Install Git](https://git-scm.com/) Instalador de Git.<br>
 📦 [Install Github](https://desktop.github.com/) Instalador de Github.<br>
