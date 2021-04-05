@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/stars/BrianMarquez3Learning-Git.svg?style=flat" alt="Stars">
   </a>
   <a href="https://github.com/BrianMarquez3/Python-Course/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3Learning-Git.svg?style=flat" alt="Forks">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Git.svg?style=flat" alt="Forks">
   </a>
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Git?color=red&label=Version&logo=git">
   </a>
