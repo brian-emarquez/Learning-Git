@@ -52,7 +52,7 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 
 <tr>
 
-<td> GHJGHJ </td>
+<td> src="![git](./images/git.png)" </td>
 
 </tr>
 
