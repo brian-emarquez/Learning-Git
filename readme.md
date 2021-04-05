@@ -48,8 +48,17 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 ---
 
 ## Instalación
+<table>
 
-![git](./images/git.png)
+  <tr>
+
+    <td> ![git](./images/git.png) </td>
+
+  </tr>
+
+
+
+</table>
 
 📦 [Install Git](https://git-scm.com/) Instalador de Git.<br>
 📦 [Install Github](https://desktop.github.com/) Instalador de Github.<br>
