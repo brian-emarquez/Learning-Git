@@ -2,16 +2,34 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/Learn-Git/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/Learn-Git.svg?label=version&style=flat" alt="Version">
+   </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Learning-Git?color=yellow">
   </a>
-  <a href="https://github.com/BrianMarquez3/Learn-Git/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/Learn-Git.svg?style=flat" alt="Stars">
+  <a href="https://github.com/BrianMarquez3/Learning-Git/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3Learning-Git.svg?style=flat" alt="Stars">
   </a>
-  <a href="https://github.com/BrianMarquez3/Learn-Git/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/Learn-Git.svg?style=flat" alt="Forks">
+  <a href="https://github.com/BrianMarquez3/Python-Course/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3Learning-Git.svg?style=flat" alt="Forks">
   </a>
-
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Git?color=red&label=Version&logo=git">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Learning-Git">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Learning-Git/total?color=green">
+  </a>
+  
+   </a>
+   <a href="https://github.com/BrianMarquez3/Learning-Git/network">
+    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+  </a><br>
+ 
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Learning-Git?color=yellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Git?style=for-the-badge">
+  
 </p>
   
 ![git](./images/clientes-git-gui.jpg)
