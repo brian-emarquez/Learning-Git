@@ -50,12 +50,11 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 ## Instalación
 <table>
 
-  <tr>
+<tr>
 
-    <td> ![git](./images/git.png) </td>
+<td> GHJGHJ </td>
 
-  </tr>
-
+</tr>
 
 
 </table>
