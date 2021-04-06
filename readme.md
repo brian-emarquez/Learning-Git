@@ -50,6 +50,8 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 
 ## Comandos
 
+Principales comando de GIT
+
 <table>
 
   <tr>
@@ -60,7 +62,7 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 
   <tr>
     <td>001</td>
-    <td>git init</td>
+    <td>`git init`</td>
     <td>Inicializar git, solo se ejecuta uan ves</td>
   </tr>
 
