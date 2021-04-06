@@ -53,21 +53,25 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 <table>
 
   <tr>
-    <th>Hoy</th>
-    <th>Mañana</th>
+    <th>NUMERO</th>
+    <th>COMANDO</th>
+    <th>DESCRIPCION</th>
   </tr>
 
   <tr>
-    <td>Soleado</td>
-    <td>Mayormente soleado</td>
+    <td>001</td>
+    <td>git init</td>
+    <td>Inicializar git, solo se ejecuta uan ves</td>
   </tr>
 
   <tr>
+    <td>002</td>
     <td>19°C</td>
     <td>17°C</td>
   </tr>
 
   <tr>
+    <td>003</td>
     <td>E 13 km/h</td>
     <td>E 11 km/h</td>
   </tr>
