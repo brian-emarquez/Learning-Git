@@ -53,39 +53,23 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 <table>
 
   <tr>
-
     <th>Hoy</th>
-
     <th>Mañana</th>
-
-
   </tr>
 
   <tr>
-
     <td>Soleado</td>
-
     <td>Mayormente soleado</td>
-
-
   </tr>
 
   <tr>
-
     <td>19°C</td>
-
     <td>17°C</td>
-
-
   </tr>
 
   <tr>
-
     <td>E 13 km/h</td>
-
     <td>E 11 km/h</td>
-
-
   </tr>
 
 </table>
