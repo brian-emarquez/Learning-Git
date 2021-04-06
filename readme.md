@@ -62,7 +62,7 @@ Principales comando de GIT
 
   <tr>
     <td>001</td>
-    <td><p>`Nombre`</p></td>
+    <td><input type="text" name="nombredelacaja"></td>
     <td>Inicializar git, solo se ejecuta uan ves</td>
   </tr>
 
