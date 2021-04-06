@@ -129,6 +129,15 @@ Principales comando de GIT
 
 ## Principales Comandos
 
+<table>
+<p>Instalacion de Git en Windows</p>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/7.jpg" />
+    </td>
+  </tr>
+</table>
+
 | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Principales Comandos](https://github.com/BrianMarquez3/Learning-Git#Principales-Comandos) | yes | yes | ✔️ |
