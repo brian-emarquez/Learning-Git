@@ -167,9 +167,10 @@ Principales comando de GIT
   </tr>
 </table>
 
-| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Principales Comandos](https://github.com/BrianMarquez3/Learning-Git#Principales-Comandos)  |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Principales Comandos](https://github.com/BrianMarquez3/Learning-Git#Principales-Comandos)  | 002 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
 
 ## Book
