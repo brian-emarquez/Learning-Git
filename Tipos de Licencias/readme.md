@@ -12,7 +12,7 @@ MIT Lisense
   </tr>
 
   <tr>
-    <td>so Comercial, Distribucion, Modificacion, uso privado</td>
+    <td>Uso Comercial, Distribucion, Modificacion, uso privado</td>
     <td>Incluir una copia de la licencia en el codigo</td>
     <td>Responsabilidad</td>
   </tr>
