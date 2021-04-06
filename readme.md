@@ -62,7 +62,7 @@ Principales comando de GIT
 
   <tr>
     <td>001</td>
-   `dfgdf`
+    <td> git init </td>
     <td>Inicializar git, solo se ejecuta uan ves</td>
   </tr>
 
