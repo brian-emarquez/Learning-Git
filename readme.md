@@ -63,42 +63,42 @@ Principales comando de GIT
 
   <tr>
     <td>001</td>
-    <td>:heavy_check_mark:</td>
+    <td>✅</td>
     <td><strong>git init</strong></td>
     <td>Inicializar git, solo se ejecuta uan ves</td>
   </tr>
 
   <tr>
     <td>002</td>
-    <td>:heavy_check_mark:</td>
+    <td>✅</td>
     <td><strong>git add nombreDelArchivo</strong></td>
     <td>Se consigue llevar el Archivo de repositorio local al area de ensayo(Area de Ensayo)</td>
   </tr>
 
   <tr>
     <td>003</td>
-    <td>:heavy_check_mark:</td>
+    <td>✅</td>
     <td><strong>git commit -m "NombreDelCambio"</strong></td>
     <td>Trasladar el archivo al area de rep. local</td>
   </tr>
 
   <tr>
     <td>004</td>
-    <td>:heavy_check_mark:</td>
+    <td>✅</td>
     <td><strong>git status </strong></td>
     <td>Archivos Pendindites</td>
   </tr>
 
   <tr>
     <td>005</td>
-    <td>:heavy_check_mark:</td>
+    <td>✅</td>
     <td><strong>git log --oneline </strong></td>
     <td>Historial de Cambios</td>
   </tr>  
 
   <tr>
     <td>006</td>
-    <td>:heavy_check_mark:</td>
+    <td>✅</td>
     <td><strong>it reset --hard numeroDeCommit </strong></td>
     <td>Hacer una restauracion a la version Anterior</td>
   </tr>    
