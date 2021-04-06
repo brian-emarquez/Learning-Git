@@ -151,9 +151,9 @@ Principales comando de GIT
 ## Crear repositorio
 
 
-| File                       | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Crear repositorio](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)   | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+|Numeration   | File                       | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:-----------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|001          | [Crear repositorio](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)   | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
 
 ## Principales Comandos
