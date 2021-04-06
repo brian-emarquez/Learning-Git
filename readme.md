@@ -131,8 +131,7 @@ Principales comando de GIT
 
 | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Principales Comandos](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-
+| [Principales Comandos](https://github.com/BrianMarquez3/Learning-Git#Principales-Comandos) | yes | yes | ✔️ |
 
 
 ## Book
