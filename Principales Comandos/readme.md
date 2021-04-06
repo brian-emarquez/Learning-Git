@@ -13,5 +13,5 @@ git add .
 _hacee add y commit juntos_
 
 ```
-git add .
+it commit -am "Comentario"
 ```
