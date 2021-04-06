@@ -147,6 +147,8 @@ GNU GPL 3
 
 Me preocupan compartir mejoras
 
+_Ejemplos: Usado por Gimp_
+
 [https://www.gnu.org/licenses/gpl-3.0.en.html]
 
 <table>
@@ -394,3 +396,7 @@ Me preocupan compartir mejoras
 
   </td>
 </tr>
+
+### Mas Licencias
+
+[https://choosealicense.com/]
