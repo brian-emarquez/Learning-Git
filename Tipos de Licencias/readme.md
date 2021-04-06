@@ -1,8 +1,10 @@
 ### Licencias
 
-MIT Lisense
+MIT License
 
 _Usado por .Net Core, Laravel, Angular_
+
+[https://opensource.org/licenses/MIT]
 
 <table>
 
