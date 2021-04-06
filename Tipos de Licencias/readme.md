@@ -4,8 +4,8 @@ MIT Lisense
 
 <table>
 
-  <tr>
-    <th colspan="3">MIT Lisense</th>
+  <tr><tr>
+    <th colspan="3">MIT Lisense</th><tr>
     <td>Permisos</td>
     <td>Condiciones</td>
     <td>Limitacion</td>
