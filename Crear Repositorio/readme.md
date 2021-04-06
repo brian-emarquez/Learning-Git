@@ -27,5 +27,11 @@ git commit
 _Archivos Pendindites_
 
 ```
-git statusS
+git status
+```
+
+_Hacer seguimiento a un solo archivo_
+
+```
+git add nombreDelArchivo
 ```
