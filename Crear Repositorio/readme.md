@@ -23,3 +23,9 @@ _Trasladar el archivo al area de rep. local_
 ```
 git commit
 ```
+
+_Archivos Pendindites_
+
+```
+git statusS
+```

@@ -42,10 +42,53 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  001   |:heavy_check_mark: | [Instalacion](#Instalacion)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
-|  002   |:heavy_check_mark: | [Crear repositorio](#Crear-repositorio)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  002   |:heavy_check_mark: | [Comandos](#Comandos)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
+|  003   |:heavy_check_mark: | [Crear repositorio](#Crear-repositorio)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 ---
+
+## Comandos
+
+<table>
+
+  <tr>
+
+    <th>Hoy</th>
+
+    <th>Mañana</th>
+
+
+  </tr>
+
+  <tr>
+
+    <td>Soleado</td>
+
+    <td>Mayormente soleado</td>
+
+
+  </tr>
+
+  <tr>
+
+    <td>19°C</td>
+
+    <td>17°C</td>
+
+
+  </tr>
+
+  <tr>
+
+    <td>E 13 km/h</td>
+
+    <td>E 11 km/h</td>
+
+
+  </tr>
+
+</table>
 
 ## Instalación
 
