@@ -169,7 +169,7 @@ Principales comando de GIT
 
 | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Principales Comandos](https://github.com/BrianMarquez3/Learning-Git#Principales-Comandos) | yes | yes | ✔️ |
+| [Principales Comandos](https://github.com/BrianMarquez3/Learning-Git#Principales-Comandos)  |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 ## Book
