@@ -101,7 +101,30 @@ Principales comando de GIT
     <td>✅</td>
     <td><strong>it reset --hard numeroDeCommit </strong></td>
     <td>Hacer una restauracion a la version Anterior</td>
+  </tr>   
+
+  <tr>
+    <td>007</td>
+    <td>✅</td>
+    <td><strong>git add . </strong></td>
+    <td>Agregar todo al areas de ensayo</td>
+  </tr>  
+
+  <tr>
+    <td>008</td>
+    <td>✅</td>
+    <td><strong>git commit -am "Comentario" </strong></td>
+    <td>hace add y commit juntos</td>
   </tr>    
+  
+  <tr>
+    <td>009</td>
+    <td>✅</td>
+    <td><strong>git commit -ammend </strong></td>
+    <td>Complejo Editor en este caso lo utilizaremos para modificar </td>
+  </tr>    
+  
+
 
 ---
 ## Instalacion
