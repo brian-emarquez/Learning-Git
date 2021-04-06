@@ -1,4 +1,4 @@
-<h2 align="center">Learn Git &nbsp;:heart:&nbsp;</h2>
+<h2 align="center">Learning-Git | GitHub</h2>
 
 <p align="center">
   
