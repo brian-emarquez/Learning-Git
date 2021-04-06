@@ -224,7 +224,7 @@ Principales comando de GIT
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Ramas o Branches](https://github.com/BrianMarquez3/Learning-Git/tree/master/Clonacion)  | 006 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+| [Ramas o Branches](https://github.com/BrianMarquez3/Learning-Git/tree/master/Ramas_o_Branches)  | 006 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
 
 
