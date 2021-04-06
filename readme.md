@@ -59,8 +59,6 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 </table>
 
 
-
-
 📦 [Install Git](https://git-scm.com/) Instalador de Git.<br>
 📦 [Install Github](https://desktop.github.com/) Instalador de Github.<br>
 
