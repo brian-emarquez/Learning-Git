@@ -156,7 +156,7 @@ Principales comando de GIT
 <p>Instalacion de Git en Windows</p>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/7.jpg" />
+      <img align="center" style="padding=0;" src="./images/log.png" />
     </td>
   </tr>
 </table>
