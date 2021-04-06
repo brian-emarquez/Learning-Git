@@ -1,6 +1,6 @@
 ### Clonacion Edicionm tags
 
-- Editar desde gitHub
+### Editar desde gitHub
 
 <table>
 <p>Editar en Github</p>
@@ -11,5 +11,27 @@
   </tr>
 </table>
 
-- Crear tags
-- Clonacion de repositorio en local
+
+_traer las modificaciones de remoto a local_
+
+```
+git pull
+```
+
+
+### Creacion de Tags (etiquetas)
+
+_Primera version de proyecto_
+
+```
+git tag 06-04-21v1 -m "Primera version"
+```
+
+_subir a gthub en tag_
+
+```
+git push --tags
+```
+
+
+### Clonacion de repositorio en local

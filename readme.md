@@ -132,7 +132,28 @@ Principales comando de GIT
     <td>Complejo Editor en este caso lo utilizaremos para modificar </td>
   </tr>    
   
+  <tr>
+    <td>010</td>
+    <td>✅</td>
+    <td><strong>git pull </strong></td>
+    <td>traer las modificaciones de remoto a local </td>
+  </tr>    
+  
+  <tr>
+    <td>011</td>
+    <td>✅</td>
+    <td><strong>git tag nombreDeTagv1 -m "Primera version </strong></td>
+    <td>Primera version de proyecto, para descargar completamente </td>
+  </tr>    
+  
 
+  <tr>
+    <td>012</td>
+    <td>✅</td>
+    <td><strong>git pull --tags</strong></td>
+    <td>Subir el Tags a remoto </td>
+  </tr>    
+  
 
 ---
 ## Instalacion
@@ -189,7 +210,7 @@ Principales comando de GIT
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Clonacion](https://github.com/BrianMarquez3/Learning-Git/tree/master/Clonacion)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+| [Clonacion Edicionm tags](https://github.com/BrianMarquez3/Learning-Git/tree/master/Clonacion)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
 
 ## Book
