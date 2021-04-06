@@ -232,4 +232,21 @@ Principales comando de GIT
 
 📦 [Descargar Libro de Git](https://git-scm.com/book/en/v2) Descargar Book
 
+## Spotify Git
+🎵 Music Git [List on Spotify 🎤](https://open.spotify.com/playlist/0MJBni0UzdnML1amikx0Rc?si=hiOUBI59RP6V9xBRlBHyeA)
 
+## Paypal Donation
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
+## License 
+Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
+
+<!-- <div align="center"><img src="./images/circle.gif"></div> -->
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/git00.gif" />
+    </td>
+  </tr>
+</table>
