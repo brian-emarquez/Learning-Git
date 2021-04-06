@@ -30,8 +30,14 @@ _Archivos Pendindites_
 git status
 ```
 
-_Hacer seguimiento a un solo archivo_
+_Historial de cambios_
 
 ```
-git add nombreDelArchivo
+git log --oneline
+```
+
+_Hacer una restauracion a la version Anterior_
+
+```
+git reset --hard numeroDeCommit
 ```
