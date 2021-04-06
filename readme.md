@@ -161,6 +161,27 @@ Principales comando de GIT
     <td>Clonacion de un proyeto en remoto </td>
   </tr>  
   
+  <tr>
+    <td>014</td>
+    <td>✅</td>
+    <td><stronggit git branch nuevaRama</strong></td>
+    <td>Crear una rama </td>
+  </tr>  
+   
+  <tr>
+    <td>015</td>
+    <td>✅</td>
+    <td><stronggit git checkout rama </strong></td>
+    <td>Cambiar de rama </td>
+  </tr> 
+
+  <tr>
+    <td>017</td>
+    <td>✅</td>
+    <td><stronggit git merge master </strong></td>
+    <td>Combianar con la rama principal, ir a la rema principal para hacer el merge </td>
+  </tr> 
+
 
 ---
 ## Instalacion

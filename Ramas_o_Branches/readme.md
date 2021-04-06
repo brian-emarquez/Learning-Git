@@ -30,3 +30,8 @@ _Cambiar de rama_
 ```
 git checkout rama
 ```
+_Combianar con la rama principal, ir a la rema principal para hacer el merge_
+
+```
+git merge master
+```
