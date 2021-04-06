@@ -1,10 +1,11 @@
 ### Licencias
 
-1 - MIT Lisense
+MIT Lisense
 
 <table>
 
   <tr>
+    <th colspan="3">MIT Lisense</th>
     <td>Permisos</td>
     <td>Condiciones</td>
     <td>Limitacion</td>
