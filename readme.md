@@ -44,7 +44,7 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 |  001   |:heavy_check_mark: | [Instalacion](#Instalacion)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
 |  002   |:heavy_check_mark: | [Comandos](#Comandos)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
 |  003   |:heavy_check_mark: | [Crear repositorio](#Crear-repositorio)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
+|  004   |:heavy_check_mark: | [Principales Comandos](#Principales-Comandos)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 
@@ -104,7 +104,7 @@ Principales comando de GIT
   </tr>    
 
 ---
-## Instalación
+## Instalacion
 
 <table>
 <p>Instalacion de Git en Windows</p>
@@ -127,8 +127,11 @@ Principales comando de GIT
 | [Crear repositorio](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
+## Principales Comandos
 
-
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Principales Comandos](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 
