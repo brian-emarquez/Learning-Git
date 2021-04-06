@@ -2,6 +2,8 @@
 
 MIT Lisense
 
+_Usado por .Net Core, Laravel, Angular_
+
 <table>
 
   <tr>
@@ -45,7 +47,7 @@ MIT Lisense
   </tr>
 
 
-
+---
 
 
 MIT Lisense
