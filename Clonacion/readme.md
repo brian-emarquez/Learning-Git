@@ -35,3 +35,9 @@ git push --tags
 
 
 ### Clonacion de repositorio en local
+
+_clonacion de un proyeto en remoto_
+
+```
+git clone URL
+```

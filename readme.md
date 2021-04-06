@@ -153,6 +153,13 @@ Principales comando de GIT
     <td><strong>git pull --tags</strong></td>
     <td>Subir el Tags a remoto </td>
   </tr>    
+
+  <tr>
+    <td>013</td>
+    <td>✅</td>
+    <td><stronggit clone URL</strong></td>
+    <td>Clonacion de un proyeto en remoto </td>
+  </tr>  
   
 
 ---
