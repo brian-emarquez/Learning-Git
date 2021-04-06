@@ -239,7 +239,7 @@ Principales comando de GIT
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 ## License 
-Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
+Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/blob/master/LICENCE)
 
 <!-- <div align="center"><img src="./images/circle.gif"></div> -->
 
