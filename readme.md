@@ -56,6 +56,15 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 
 ---
 
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://dubox.com/s/1-Fo-xBHOKJ_IWliqgVX_gw Código de extracción:chdu" />
+    </td>
+  </tr>
+</table>
+
+
 ## Comandos
 
 Principales comando de GIT
