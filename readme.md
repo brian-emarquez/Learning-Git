@@ -256,6 +256,14 @@ Principales comando de GIT
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ramas o Branches](https://github.com/BrianMarquez3/Learning-Git/tree/master/Ramas_o_Branches)  | 006 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
+---
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/git3.gif" />
+    </td>
+  </tr>
+</table>
 
 
 ## Book
