@@ -17,8 +17,6 @@
   </tr>
 </table>
 
-
-
 _Crear una rama_
 
 ```

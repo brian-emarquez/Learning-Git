@@ -191,6 +191,13 @@ Principales comando de GIT
     <td>Combianar con la rama principal, ir a la rema principal para hacer el merge </td>
   </tr> 
 
+  <tr>
+    <td>017</td>
+    <td>✅</td>
+    <td><stronggit git branch -d nombredelaRama</strong></td>
+    <td>Borrar rama </td>
+  </tr> 
+
 
 ---
 ## Instalacion
