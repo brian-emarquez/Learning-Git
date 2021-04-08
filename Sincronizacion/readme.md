@@ -97,6 +97,84 @@ git config --global user.email SU-CORREO-ELECTRONICO
 ![git](../images/vsc-repos-commit-01.png)
 
 
+- Modifique los archivos del repositorio o añada nuevos archivos
+
+En la captura del ejemplo, en el icono Control de código fuente se nos indica el número de ficheros con cambios (3). En la barra del Explorador se indica qué ficheros son nuevos (con la letra U) o se han modificado (con la letra M).
+
+![git](../images/vsc-repos-commit-02.png)
+
+- Abra la barra lateral de Control de código fuente haciendo clic en el icono correspondiente. Se mostrará la lista de ficheros con cambios:
+
+![git](../images/vsc-repos-commit-03.png)
+
+- Seleccione los ficheros cuyos cambios formarán parte del commit (puede elegir todos los ficheros modificados o sólo una parte) haciendo clic en el icono +:
+
+![git](../images/vsc-repos-commit-04.png)
+
+- Los ficheros seleccionados se muestran en un apartado "Cambios almacenados provisionalmente". Escriba el mensaje descriptivo del commit en la caja superior y pulse Ctrl+Intro
+
+![git](../images/vsc-repos-commit-05.png)
+
+- Los ficheros incluidos en el commit dejan de mostrarse en la parte superior y en el contador del icono Control de código fuente:
+
+![git](../images/vsc-repos-commit-06-a.png)
+
+- En la barra inferior, Visual Studio Code nos avisa que el repositorio local ya no está sincronizado con el repositorio remoto y nos indica el número de commits de diferencia:
+
+![git](../images/vsc-repos-commit-06-b.png)
+
+- Podemos hacer nuevos commits hasta que no queden cambios pendientes.
+
+![git](../images/vsc-repos-commit-07-a.png)
+
+- Haga clic en el icono de la barra lateral inferior para sincronizar el repositorio remoto con el local
+
+![git](../images/vsc-repos-commit-08.png)
+
+- Visual Studio Code mostrará un aviso indicando que al sincronizar se producirán cambios en el repositorio remoto. Para no volver a ver este aviso, haga clic en "De acuerdo, no volver a ver este mensaje":
+
+![git](../images/vsc-repos-commit-09.png)
+
+- La primera vez que sincronicemos, deberemos introducir el usuario y contraseña de GitHub.
+
+![git](../images/vsc-repos-commit-10.png)
+
+- Una vez realizada la sincronización, el contador deja de mostrarse.
+
+![git](../images/vsc-repos-commit-11.png)
 
 
+### Borrar credencial de Windows 
 
+La identificación en GitHub que utiliza Visual Studio Code se guarda como credencial de Windows, por lo que si estamos utilizando un ordenador al que tienen acceso otras personas, es muy importante que eliminemos la credencial antes de abandonar el ordenador o nos arriesgamos a que otro usuario nos suplante y acceda a los repositorios remotos
+
+- Abra el panel de control clásico (Menú de inicio > panel de control)
+
+![git](../images/vsc-repos-credencial-1.png)
+
+
+- Haga clic en el icono de Cuentas de usuario
+
+![git](../images/vsc-repos-credencial-2.png)
+
+- Haga clic en el enlace "Administrar credenciales"
+
+![git](../images/vsc-repos-credencial-3.png)
+
+Haga clic en el icono "Credenciales de Windows"
+
+![git](../images/vsc-repos-credencial-4.png)
+
+- Haga clic en la credencial genérica de github
+
+![git](../images/vsc-repos-credencial-5.png)
+
+- Haga clic en el enlace "Quitar"
+
+![git](../images/vsc-repos-credencial-7.png)
+
+- Confirme la eliminación
+
+Compruebe que la credencial ha sido eliminada
+
+![git](../images/vsc-repos-credencial-8.png)
