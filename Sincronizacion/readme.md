@@ -1,0 +1,24 @@
+### Sincronicacion
+
+- incronizar los cambios del código con GitHub y Visual Studio
+
+Una vez que instalaste los paquetes nuget puedes sincronizar tus cambios con el servidor de GitHub para que esté disponible para los demás.
+
+En visual studio se agrega una palomita de color rojo al lado del archivo para indicar cuales archivos han sido cambiados y aún no han sido sincronizados con el servidor.
+
+### Sincronizar  desde Visual Studio
+
+1. Dar clic derecho sobre el proyecto. Luego en la opción Control de Código Fuente -> Confirmar
+
+![php](./images/image.png)
+
+2. Al lado derecho te muestra una ventana en la cual puedes escribir la descripción del cambio, y te muestra los archivos que han cambiado. Tecleamos como descripción: Instalación de paquetes Nuget desde Visual Studio Comunity luego damos clic en Confirmar Todo 
+
+![php](./images/image1.png)
+
+3. De esta forma los cambios están solamente en tu computadora. Para publicarlos en github da clic en Sincronizar
+
+
+4. Damos clic en Insertar
+
+![php](./images/image3.png)
