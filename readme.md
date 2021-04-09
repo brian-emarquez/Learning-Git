@@ -291,12 +291,12 @@ Principales comando de GIT
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Sincronizaciones](https://github.com/BrianMarquez3/Learning-Git/tree/master/Conflictos)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+| [Sincronizaciones](https://github.com/BrianMarquez3/Learning-Git/tree/master/Sincronizacion)  | 008 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 ## Folk
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Folk](https://github.com/BrianMarquez3/Learning-Git/tree/master/Conflictos)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+| [Folk](https://github.com/BrianMarquez3/Learning-Git/tree/master/Folk)  | 009 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
 ---
 ## Book
