@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/gwiki.png" />
+      <img align="center" style="padding=0;" src="../images/wiki.png" />
     </td>
   </tr>
 </table>
