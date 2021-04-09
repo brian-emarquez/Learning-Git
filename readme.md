@@ -198,7 +198,7 @@ Principales comando de GIT
   <tr>
     <td>018</td>
     <td>✅</td>
-    <td><<strong> git branch -d nombredelaRama</strong></td>
+    <td><strong> git branch -d nombredelaRama</strong></td>
     <td>Borrar rama </td>
   </tr> 
 
