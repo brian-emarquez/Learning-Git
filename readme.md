@@ -170,36 +170,85 @@ Principales comando de GIT
   <tr>
     <td>013</td>
     <td>✅</td>
-    <td><stronggit clone URL</strong></td>
+    <td><strong> clone URL</strong></td>
     <td>Clonacion de un proyeto en remoto </td>
   </tr>  
   
   <tr>
     <td>014</td>
     <td>✅</td>
-    <td><stronggit git branch nuevaRama</strong></td>
+    <td><strong> git branch nuevaRama</strong></td>
     <td>Crear una rama </td>
   </tr>  
    
   <tr>
     <td>015</td>
     <td>✅</td>
-    <td><stronggit git checkout rama </strong></td>
+    <td><strong> git checkout rama </strong></td>
     <td>Cambiar de rama </td>
   </tr> 
 
   <tr>
     <td>017</td>
     <td>✅</td>
-    <td><stronggit git merge master </strong></td>
+    <td><strong> git merge master </strong></td>
     <td>Combianar con la rama principal, ir a la rema principal para hacer el merge </td>
   </tr> 
 
   <tr>
-    <td>017</td>
+    <td>018</td>
     <td>✅</td>
-    <td><stronggit git branch -d nombredelaRama</strong></td>
+    <td><<strong> git branch -d nombredelaRama</strong></td>
     <td>Borrar rama </td>
+  </tr> 
+
+  <tr>
+    <td>019</td>
+    <td>✅</td>
+    <td><strong> git config --list</strong></td>
+    <td>Para ver todas la configuraciones </td>
+  </tr> 
+  
+  <tr>
+    <td>020</td>
+    <td>✅</td>
+    <td><strong> git help</strong></td>
+    <td>Muestra una lista con los comandos más utilizados en GIT </td>
+  </tr> 
+
+  <tr>
+    <td>021</td>
+    <td>✅</td>
+    <td><strong> git diff </strong></td>
+    <td>ver lo que se combio en el codigo</td>
+  </tr> 
+
+   <tr>
+    <td>022</td>
+    <td>✅</td>
+    <td><strong> git commit --amend -m "nombreCorregido" </strong></td>
+    <td>Corregir un commit antes de reaizar un push</td>
+  </tr> 
+
+  <tr>
+    <td>023</td>
+    <td>✅</td>
+    <td><strong> git mv nombreAntiguo nombreNuevo </strong></td>
+    <td>Actualiza ul nombre del archivo </td>
+  </tr> 
+
+  <tr>
+    <td>024</td>
+    <td>✅</td>
+    <td><strong> git rm nombreArchivo.html </strong></td>
+    <td>Elimina el archivo con el nombre escrito </td>
+  </tr> 
+
+  <tr>
+    <td>025</td>
+    <td>✅</td>
+    <td><strong> git config --global user.email brian@mail.copm </strong></td>
+    <td>cambiar un dato en el listado de configuraciones </td>
   </tr> 
 
 
