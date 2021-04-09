@@ -53,7 +53,10 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 |  004   |:heavy_check_mark: | [Principales Comandos](#Principales-Comandos)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  005   |:heavy_check_mark: | [Clonacion Edicion tags](#Clonacion-Edicion-tags)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  006   |:heavy_check_mark: | [Ramas o Branches](#Ramas-o-Branches)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  006   |:heavy_check_mark: | [Conflictos](#Conflictos)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  007   |:heavy_check_mark: | [Conflictos](#Conflictos)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  008   |:heavy_check_mark: | [Sincronizaciones](#Sincronizaciones)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  009   |:heavy_check_mark: | [Folk](#Folk)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
 
 ---
 
@@ -282,6 +285,18 @@ Principales comando de GIT
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Conflictos](https://github.com/BrianMarquez3/Learning-Git/tree/master/Conflictos)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
+
+## Sincronizaciones
+
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Sincronizaciones](https://github.com/BrianMarquez3/Learning-Git/tree/master/Conflictos)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+## Folk
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Folk](https://github.com/BrianMarquez3/Learning-Git/tree/master/Conflictos)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
 ---
 ## Book
