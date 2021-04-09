@@ -49,3 +49,38 @@ Borrar las credeciales para cambiar la cuenta en github
   </tr>
 </table>
 
+
+
+## Folk and Merge
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/pull2.png" />
+    </td>
+  </tr>
+</table>
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/pull3.png" />
+    </td>
+  </tr>
+</table>
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/pull4.png" />
+    </td>
+  </tr>
+</table>
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/pull5.png" />
+    </td>
+  </tr>
+</table>
