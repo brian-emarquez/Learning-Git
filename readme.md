@@ -57,7 +57,7 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 |  008   |:heavy_check_mark: | [Sincronizaciones](#Sincronizaciones)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  009   |:heavy_check_mark: | [Folk](#Folk)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  010   |:heavy_check_mark: | [SSH](#SSH)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
+|  011   |:heavy_check_mark: | [WIKI](#WIKI)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 
@@ -354,6 +354,12 @@ Principales comando de GIT
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [SSH](https://github.com/BrianMarquez3/Learning-Git/tree/master/SSH)  | 009 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+
+## WIKI
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [wiki](https://github.com/BrianMarquez3/Learning-Git/tree/master/SSH)  | 009 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
 
 ---
