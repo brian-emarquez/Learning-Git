@@ -78,7 +78,7 @@ Principales comando de GIT
 
   <tr>
     <th>NUMERO</th>
-    <th>ESTADO</th>
+    <th>STATE</th>
     <th>COMANDO</th>
     <th>DESCRIPCION</th>
   </tr>
@@ -353,7 +353,7 @@ Principales comando de GIT
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [SSH](https://github.com/BrianMarquez3/Learning-Git/tree/master/Folk)  | 009 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+| [SSH](https://github.com/BrianMarquez3/Learning-Git/tree/master/SSH)  | 009 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
 
 ---

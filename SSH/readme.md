@@ -17,3 +17,10 @@ ssh-keygen -t rsa -b 4096 -C "brian3marquez@gmail.com"
 
 - Coloca un Password si se desea
 
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/ssh.png" />
+    </td>
+  </tr>
+</table>
