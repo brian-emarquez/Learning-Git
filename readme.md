@@ -366,7 +366,7 @@ Principales comando de GIT
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Project](https://github.com/BrianMarquez3/Learning-Git/tree/master/Wiki)  | 009 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+| [Project](https://github.com/BrianMarquez3/Learning-Git/tree/master/Project)  | 009 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
 
 ---
