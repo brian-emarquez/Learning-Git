@@ -412,11 +412,11 @@ Como se puede apreciar en la imagen anterior el título se conforma de dos parte
 
 ### Tipo
 
-*➕ADD *: Se genera una nueva funcionalidad.
-*🛠 FIX *: Se soluciona un bug.
-♻️ REFACTOR : Refactorización y mejoras.
-☠️ DELETE : Se eliminan funciones o archivos.
-📚 DOCS : Se generar cambios en la documentación.
+*➕ADD *: Se genera una nueva funcionalidad.  <br>
+*🛠 FIX *: Se soluciona un bug. <br>
+♻️ REFACTOR : Refactorización y mejoras. <br>
+☠️ DELETE : Se eliminan funciones o archivos. <br>
+📚 DOCS : Se generar cambios en la documentación. <br>
 
 Es importante notar que el Type se escribe en mayúsculas y se puede utilizar emoji el cual es opcional en mi caso los utilizo ya que me facilita de primera vista saber el tipo de commit.
 
@@ -455,19 +455,19 @@ _Type/Tipo_
 
 El tipo es contenido en el titulo y puede ser de alguno de los siguientes casos:
 
-`eat`: Una nueva caracteristica.
+`eat`: Una nueva caracteristica. <br>
 
-`fix`: Se soluciono un bug.
+`fix`: Se soluciono un bug. <br>
 
-`docs`: Se realizaron cambios en la documentacion.
+`docs`: Se realizaron cambios en la documentacion. <br>
 
-`style`: Se aplico formato, comas y puntos faltantes, etc; Sin cambios en el codigo.
+`style`: Se aplico formato, comas y puntos faltantes, etc; Sin cambios en el codigo. <br>
 
-`refactor`: Refactorizacion del codigo en produccion.
+`refactor`: Refactorizacion del codigo en produccion. <br>
 
-`test`: Se añadieron pruebas, refactorizacion de pruebas; Sin cambios en el codigo.
+`test`: Se añadieron pruebas, refactorizacion de pruebas; Sin cambios en el codigo. <br>
 
-`chore`: Actualizacion de tareas de build, configuracion del admin. de paquetes; Sin cambios en el codigo.
+`chore`: Actualizacion de tareas de build, configuracion del admin. de paquetes; Sin cambios en el codigo. <br>
 
 
 ### Ejemplo
