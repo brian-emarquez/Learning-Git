@@ -445,7 +445,7 @@ Issue: #1
 ```
 
 
-(dev.to)[https://dev.to/konami12/recomendaciones-para-generar-un-buen-commit-544i#:~:text=%F0%9F%9A%A7%20Estructura,y%20del%20asunto%20del%20mensaje.]
+(dev.to)[https://dev.to/konami12recomendaciones-para-generar-un-buen-commit-544i#:~:text=%F0%9F%9A%A7%2Estructura,y%20del%20asunto%20del%20mensaje.]
 
 ---
 
@@ -502,7 +502,7 @@ Resolves: #123
 See also: #456, #789
 ```
 
-(codigofacilito)[https://codigofacilito.com/articulos/buenas-practicas-en-commits-de-git]
+(codigofacilito)[https://codigofacilito.com/articulosbuenas-practicas-en-commits-de-git]
 
 ---
 
