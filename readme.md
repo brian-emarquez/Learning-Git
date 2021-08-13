@@ -534,7 +534,26 @@ Afecta a: #270, #286
 ---
 ## Book
 
-📦 [Descargar Libro de Git](https://git-scm.com/book/en/v2) Descargar Book
+<table>
+  <tr>
+      <td>Server</td>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Editorial</td>
+      <td>ISBN</td>
+      <td>Link</td>
+  </tr>
+
+   <tr>
+      <td>OneDrive</td>
+      <td>Pro Git</td>
+      <td>Scott Chacon, Ben Straub</td>
+      <td>Apress</td>
+      <td> - </td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EZX9hoM9H2pHtD18J3BQ-CQBXeaB2F3TMj-3crDgxLi6WA?e=TdJEjg">JPro Git</a></td>
+  </tr>
+
+</table>
 
 ## Spotify Git
 🎵 Music Git [List on Spotify 🎤](https://open.spotify.com/playlist/0MJBni0UzdnML1amikx0Rc?si=hiOUBI59RP6V9xBRlBHyeA)
