@@ -125,7 +125,7 @@ Principales comando de GIT
   <tr>
     <td>006</td>
     <td>✅</td>
-    <td><strong>it reset --hard numeroDeCommit </strong></td>
+    <td><strong>git reset --hard numeroDeCommit </strong></td>
     <td>Hacer una restauracion a la version Anterior</td>
   </tr>   
 
