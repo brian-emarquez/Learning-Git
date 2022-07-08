@@ -91,20 +91,20 @@ Principales comando de GIT
     <td>001</td>
     <td>✅</td>
     <td><strong>git init</strong></td>
-    <td>Inicializar git, solo se ejecuta uan ves</td>
+    <td>Inicializar git, solo se ejecuta una ves</td>
   </tr>
 
   <tr>
     <td>002</td>
     <td>✅</td>
-    <td><strong>git add nombreDelArchivo</strong></td>
+    <td><strong>git add nombre_archivo</strong></td>
     <td>Se consigue llevar el Archivo de repositorio local al area de ensayo(Area de Ensayo)</td>
   </tr>
 
   <tr>
     <td>003</td>
     <td>✅</td>
-    <td><strong>git commit -m "NombreDelCambio"</strong></td>
+    <td><strong>git commit -m "Nombre_cambio"</strong></td>
     <td>Trasladar el archivo al area de rep. local</td>
   </tr>
 
@@ -112,7 +112,7 @@ Principales comando de GIT
     <td>004</td>
     <td>✅</td>
     <td><strong>git status </strong></td>
-    <td>Archivos Pendindites</td>
+    <td>Archivos Pendiendites</td>
   </tr>
 
   <tr>
@@ -125,7 +125,7 @@ Principales comando de GIT
   <tr>
     <td>006</td>
     <td>✅</td>
-    <td><strong>git reset --hard numeroDeCommit </strong></td>
+    <td><strong>git reset --hard numero_commit </strong></td>
     <td>Hacer una restauracion a la version Anterior</td>
   </tr>   
 
@@ -143,22 +143,29 @@ Principales comando de GIT
     <td>hace add y commit juntos</td>
   </tr>    
   
-  <tr>
+   <tr>
     <td>009</td>
+    <td>✅</td>
+    <td><strong>git commit -am "Comentario" </strong></td>
+    <td>hace add y commit juntos</td>
+  </tr> 
+  
+  <tr>
+    <td>010</td>
     <td>✅</td>
     <td><strong>git commit -ammend </strong></td>
     <td>Complejo Editor en este caso lo utilizaremos para modificar </td>
   </tr>    
   
   <tr>
-    <td>010</td>
+    <td>011</td>
     <td>✅</td>
     <td><strong>git pull </strong></td>
     <td>traer las modificaciones de remoto a local </td>
   </tr>    
   
   <tr>
-    <td>011</td>
+    <td>012</td>
     <td>✅</td>
     <td><strong>git tag nombreDeTagv1 -m "Primera version </strong></td>
     <td>Primera version de proyecto, para descargar completamente </td>
@@ -166,91 +173,91 @@ Principales comando de GIT
   
 
   <tr>
-    <td>012</td>
+    <td>013</td>
     <td>✅</td>
     <td><strong>git pull --tags</strong></td>
     <td>Subir el Tags a remoto </td>
   </tr>    
 
   <tr>
-    <td>013</td>
+    <td>014</td>
     <td>✅</td>
     <td><strong> clone URL</strong></td>
     <td>Clonacion de un proyeto en remoto </td>
   </tr>  
   
   <tr>
-    <td>014</td>
+    <td>015</td>
     <td>✅</td>
     <td><strong> git branch nuevaRama</strong></td>
     <td>Crear una rama </td>
   </tr>  
    
   <tr>
-    <td>015</td>
+    <td>016</td>
     <td>✅</td>
     <td><strong> git checkout rama </strong></td>
     <td>Cambiar de rama </td>
   </tr> 
 
   <tr>
-    <td>017</td>
+    <td>018</td>
     <td>✅</td>
     <td><strong> git merge master </strong></td>
     <td>Combianar con la rama principal, ir a la rema principal para hacer el merge </td>
   </tr> 
 
   <tr>
-    <td>018</td>
+    <td>019</td>
     <td>✅</td>
     <td><strong> git branch -d nombredelaRama</strong></td>
     <td>Borrar rama </td>
   </tr> 
 
   <tr>
-    <td>019</td>
+    <td>020</td>
     <td>✅</td>
     <td><strong> git config --list</strong></td>
     <td>Para ver todas la configuraciones </td>
   </tr> 
   
   <tr>
-    <td>020</td>
+    <td>021</td>
     <td>✅</td>
     <td><strong> git help</strong></td>
     <td>Muestra una lista con los comandos más utilizados en GIT </td>
   </tr> 
 
   <tr>
-    <td>021</td>
+    <td>022</td>
     <td>✅</td>
     <td><strong> git diff </strong></td>
     <td>ver lo que se combio en el codigo</td>
   </tr> 
 
    <tr>
-    <td>022</td>
+    <td>023</td>
     <td>✅</td>
     <td><strong> git commit --amend -m "nombreCorregido" </strong></td>
     <td>Corregir un commit antes de reaizar un push</td>
   </tr> 
 
   <tr>
-    <td>023</td>
+    <td>024</td>
     <td>✅</td>
-    <td><strong> git mv nombreAntiguo nombreNuevo </strong></td>
+    <td><strong> git mv nombre_antiguo nombreNuevo </strong></td>
     <td>Actualiza ul nombre del archivo </td>
   </tr> 
 
   <tr>
-    <td>024</td>
+    <td>025</td>
     <td>✅</td>
-    <td><strong> git rm nombreArchivo.html </strong></td>
+    <td><strong> git rm nombre_archivo.html </strong></td>
     <td>Elimina el archivo con el nombre escrito </td>
   </tr> 
 
   <tr>
-    <td>025</td>
+    <td>026</td>
     <td>✅</td>
     <td><strong> git config --global user.email brian@mail.copm </strong></td>
     <td>cambiar un dato en el listado de configuraciones </td>
