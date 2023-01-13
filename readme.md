@@ -39,9 +39,6 @@
   </tr>
 </table>
 
-## ¿Que es Git?
-es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos. [WIKIPEDIA](https://es.wikipedia.org/wiki/Git).<br>
-
 ## Tabla de contenidos
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
@@ -73,9 +70,24 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 </table>
 
 
-## Comandos
+## Instalacion
 
-Principales comando de GIT
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/git.png" />
+    </td>
+  </tr>
+</table>
+
+📦 [Install Git](https://git-scm.com/) Instalador de Git.<br>
+📦 [Install Github](https://desktop.github.com/) Instalador de Github.<br>
+📦 [Install GitKraken](https://www.gitkraken.com/) Get The Legendary GitKraken Client.<br>
+📦 [Install Gitlab](https://about.gitlab.com/) Software. Faster..<br>
+📦 [Install Bitbucket](https://bitbucket.org/) Code & CI/CD, built for teams using Jira<br>
+
+## Comandos
+Main Git commands
 
 <table>
 
@@ -264,20 +276,7 @@ Principales comando de GIT
 
 
 ---
-## Instalacion
 
-<table>
-<p>Instalacion de Git en Windows</p>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/git.png" />
-    </td>
-  </tr>
-</table>
-
-
-📦 [Install Git](https://git-scm.com/) Instalador de Git.<br>
-📦 [Install Github](https://desktop.github.com/) Instalador de Github.<br>
 
 ## Crear repositorio
 
