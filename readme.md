@@ -79,7 +79,16 @@
 📦 [Install Bitbucket](https://bitbucket.org/) Code & CI/CD, built for teams using Jira<br>
 
 ## Comandos
-Main Git commands
+
+_More Comands_
+
+```git
+// para borrar la branch local
+git branch -d localBranchName
+
+// para borrar la branch remota
+git push origin --delete remoteBranchName
+```
 
 <table>
 
@@ -174,7 +183,6 @@ Main Git commands
     <td>Primera version de proyecto, para descargar completamente </td>
   </tr>    
   
-
   <tr>
     <td>013</td>
     <td>✅</td>
@@ -265,17 +273,8 @@ Main Git commands
     <td><strong> git config --global user.email brian@mail.copm </strong></td>
     <td>cambiar un dato en el listado de configuraciones </td>
   </tr> 
+</table>
 
-
-## More Comands
-
-```git
-// para borrar la branch local
-git branch -d localBranchName
-
-// para borrar la branch remota
-git push origin --delete remoteBranchName
-```
 
 ## Principales Comandos
 
