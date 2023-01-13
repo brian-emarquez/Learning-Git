@@ -267,16 +267,15 @@ Main Git commands
   </tr> 
 
 
----
+## More Comands
 
+```git
+// para borrar la branch local
+git branch -d localBranchName
 
-## Crear repositorio
-
-
-| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Crear repositorio](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
-
+// para borrar la branch remota
+git push origin --delete remoteBranchName
+```
 
 ## Principales Comandos
 
