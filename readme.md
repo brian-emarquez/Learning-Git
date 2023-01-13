@@ -2,29 +2,28 @@
 
 <p align="center">
   
-   </a>
+  </a>
     <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Learning-Git?color=yellow">
   </a>
+
   <a href="https://github.com/BrianMarquez3/Learning-Git/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Learning-Git.svg?style=flat" alt="Stars">
   </a>
+
   <a href="https://github.com/BrianMarquez3/Learning-Git/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Git.svg?style=flat" alt="Forks">
   </a>
+
+  <a>
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Git?color=red&label=Version&logo=git">
   </a>
   
   </a>
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Learning-Git">
   </a>
-  
-  </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Learning-Git/total?color=green">
-  </a>
-  
+    
    </a>
    <a href="https://github.com/BrianMarquez3/Learning-Git/network">
-    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Learning-Git?color=yellow&style=for-the-badge">
