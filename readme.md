@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Learning-Git?color=yellow">
   </a>
   <a href="https://github.com/BrianMarquez3/Learning-Git/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3Learning-Git.svg?style=flat" alt="Stars">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/Learning-Git.svg?style=flat" alt="Stars">
   </a>
-  <a href="https://github.com/BrianMarquez3/Python-Course/network">
+  <a href="https://github.com/BrianMarquez3/Learning-Git/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Git.svg?style=flat" alt="Forks">
   </a>
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Git?color=red&label=Version&logo=git">
