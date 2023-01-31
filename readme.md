@@ -94,16 +94,16 @@ git push origin --delete remoteBranchName
 _Configuracion de Usuario_
 
 ```git
-git config --global user.name "Brian"
-git config --global user.email brian3marquez@example.com
+git config --global user.name "brian"
+git config --global user.email rian3marquez@example.com
 ```
 
 <table>
   <tr>
-    <th>NUMERO</th>
+    <th>NUMBER</th>
     <th>STATE</th>
-    <th>COMANDO</th>
-    <th>DESCRIPCION</th>
+    <th>COMANDS</th>
+    <th>DESCRIPTION</th>
   </tr>
 
   <tr>
@@ -283,7 +283,7 @@ git config --global user.email brian3marquez@example.com
 </table>
 
 
-## Principales Comandos
+## Main Commands
 
 <table>
 <p>Instalacion de Git en Windows</p>
