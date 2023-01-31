@@ -41,22 +41,22 @@
 
 ## Tabla de contenidos
 
-| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
-| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Instalacion](#Instalacion)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
-|  002   |:heavy_check_mark: | [Comandos](#Comandos)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
-|  003   |:heavy_check_mark: | [Crear repositorio](#Crear-repositorio)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  004   |:heavy_check_mark: | [Principales Comandos](#Principales-Comandos)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  005   |:heavy_check_mark: | [Clonacion Edicion tags](#Clonacion-Edicion-tags)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  006   |:heavy_check_mark: | [Ramas o Branches](#Ramas-o-Branches)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  007   |:heavy_check_mark: | [Conflictos](#Conflictos)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  008   |:heavy_check_mark: | [Sincronizaciones](#Sincronizaciones)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  009   |:heavy_check_mark: | [Folk](#Folk)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  010   |:heavy_check_mark: | [SSH](#SSH)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  011   |:heavy_check_mark: | [WIKI](#WIKI)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| Numeration  | Check   |    Topic       |   Edit Gitpot      |    Downloads     |  link    |
+|:-----------:|:-------:|:--------------:|:------------------:|:----------------:|:--------:|
+|  001   |:heavy_check_mark: | [Instalacion](#Instalacion)   |  💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
+|  002   |:heavy_check_mark: | [Comands](#Comands)   |  💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
+|  003   |:heavy_check_mark: | [Crear repositorio](#Crear-repositorio)   |  💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  004   |:heavy_check_mark: | [Principales Comandos](#Principales-Comandos)   |  💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  005   |:heavy_check_mark: | [Clonacion Edicion tags](#Clonacion-Edicion-tags)   |  💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  006   |:heavy_check_mark: | [Ramas o Branches](#Ramas-o-Branches)   |  💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  007   |:heavy_check_mark: | [Conflictos](#Conflictos)   |  💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  008   |:heavy_check_mark: | [Sincronizaciones](#Sincronizaciones)   |  💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  009   |:heavy_check_mark: | [Folk](#Folk)   |  💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  010   |:heavy_check_mark: | [SSH](#SSH)   |  💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  011   |:heavy_check_mark: | [WIKI](#WIKI)   | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  012   |:heavy_check_mark: | [Project](#Project)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  013   |:heavy_check_mark: | [Global](#Global)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  014   |:heavy_check_mark: | [Commit](#Commit)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  013   |:heavy_check_mark: | [Global](#Global)   | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  014   |:heavy_check_mark: | [Commit](#Commit)   | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 ---
@@ -78,7 +78,7 @@
 📦 [Install Gitlab](https://about.gitlab.com/) Software. Faster..<br>
 📦 [Install Bitbucket](https://bitbucket.org/) Code & CI/CD, built for teams using Jira<br>
 
-## Comandos
+## Comands
 
 _Borrar la branch local_
 ```git
