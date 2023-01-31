@@ -81,18 +81,23 @@
 ## Comands
 
 _Borrar la branch local_
+
 ```git
 git branch -d localBranchName
 ```
 
 _Borrar la branch remota_
+
+```git
 git push origin --delete remoteBranchName
 ```
 _Configuracion de Usuario_
+
 ```git
 git config --global user.name "Brian"
 git config --global user.email brian3marquez@example.com
 ```
+
 <table>
   <tr>
     <th>NUMERO</th>
