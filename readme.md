@@ -80,18 +80,20 @@
 
 ## Comandos
 
-_More Comands_
-
+_Borrar la branch local_
 ```git
-// para borrar la branch local
 git branch -d localBranchName
-
-// para borrar la branch remota
-git push origin --delete remoteBranchName
 ```
 
+_Borrar la branch remota_
+git push origin --delete remoteBranchName
+```
+_Configuracion de Usuario_
+```git
+git config --global user.name "Brian"
+git config --global user.email brian3marquez@example.com
+```
 <table>
-
   <tr>
     <th>NUMERO</th>
     <th>STATE</th>
@@ -373,11 +375,6 @@ git push origin --delete remoteBranchName
 _Configuración de Git_
 
 Como se ha visto brevemente en podemos acceder a los ajustes de configuración de Git a través del comando git config. Una de las primeras acciones que has realizado con Git ha sido el configurar tu nombre y tu dirección de correo electrónico
-
-```git
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
-```
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
