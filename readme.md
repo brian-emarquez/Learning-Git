@@ -94,8 +94,8 @@ git push origin --delete remoteBranchName
 _Configuracion de Usuario_
 
 ```git
-git config --global user.name "brian"
-git config --global user.email rian3marquez@example.com
+git config --global user.name "user"
+git config --global user.email user@example.com
 ```
 
 <table>
