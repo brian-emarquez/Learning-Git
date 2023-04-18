@@ -98,6 +98,13 @@ git config --global user.name "user"
 git config --global user.email user@example.com
 ```
 
+
+_Crear rama a partir de otra_
+
+```git
+git checkout -b "newBranch"
+```
+
 <table>
   <tr>
     <th>NUMBER</th>
