@@ -573,7 +573,7 @@ Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/git00.gif" />
+      <img align="center" style="padding=0;" src="./images/3D.gif" />
     </td>
   </tr>
 </table>
